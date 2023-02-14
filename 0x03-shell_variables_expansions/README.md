@@ -1,1 +1,2 @@
-Shell, init files, variables and expansions
+Hello user
+0x03-shell_variables_expansions
